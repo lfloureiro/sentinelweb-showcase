@@ -4,6 +4,12 @@ The SentinelWeb source code is currently private.
 
 This public repository exists to present the project, document its goals, and provide a way for interested people to request access.
 
+## Showcase context
+
+The screenshots included in this public showcase demonstrate SentinelWeb features using anonymised data. They are visible to everyone but **do not expose any credentials, private URLs, or sensitive internal data**. 
+
+Public viewers can understand the workflow, dashboard layout, and scan types, while access to the full source code or protected scans requires explicit permission through the access model described below.
+
 ## Requesting access
 
 To request access, contact the maintainer through GitHub.
