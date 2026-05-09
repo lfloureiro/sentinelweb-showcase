@@ -1,0 +1,23 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Do not publish private source accidentally
+backend/
+frontend/
+scripts/
+.env
+*.env
+*.db
+*.sqlite
+*.sqlite3
+*.pem
+*.key
+*.enc
+*.vault
