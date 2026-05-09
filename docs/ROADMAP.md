@@ -39,10 +39,10 @@ Planned:
 Planned:
 
 - better distinction between edge, origin, and authenticated scans  
-  ![Security detail view](screenshots/03-security-detail.png)
+  ![Security detail view](screenshots/06-security-detail.png)
 
 - Cloudflare/Akamai/Imperva detection  
-  ![Security overview](screenshots/02-security-overview.png)
+  ![Security overview](screenshots/05-security-overview.png)
 
 - WAF and access-layer recognition
 - origin exposure warnings
