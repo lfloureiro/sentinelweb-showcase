@@ -47,7 +47,6 @@ Planned:
 - WAF and access-layer recognition
 - origin exposure warnings
 - HTTP method checks  
-  ![HTTP checks modal](screenshots/04-vault-modal.png)
 
 - redirect-chain security analysis
 
