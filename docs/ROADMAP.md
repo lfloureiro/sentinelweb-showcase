@@ -39,7 +39,7 @@ Planned:
 Planned:
 
 - better distinction between edge, origin, and authenticated scans  
-  ![Security overview](../screenshots/06-security-detail.png)
+  ![Security detail](../screenshots/06-security-detail.png)
 
 - Cloudflare/Akamai/Imperva detection  
   ![Security overview](../screenshots/05-security-overview.png)
